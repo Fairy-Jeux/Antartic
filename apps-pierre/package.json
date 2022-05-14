@@ -1,0 +1,14 @@
+{
+  "name": "antartic",
+  "version": "0.0.1",
+  "description": "A Gog Galaxy but better",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Antartic",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.2.2"
+  }
+}
